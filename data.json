@@ -1,5 +1,5 @@
 {
-    "GPOnlyTraffic" : "true",
+    "GPOnlyTraffic" : "false",
     "admob_only" : "false",
     "tapdaq_only" : "true",
     "admob_banner_enable" : "false",
@@ -12,7 +12,7 @@
     "ad_unit_banner_rect_intro_last": "",
     "tapdaq_banner_enable" : "false",
     "tapdaq_inter_enable" : "true",
-    "tapdaq_app_id": "60d727f308fe6c2d735d672f",
+    "tapdaq_app_id": "60ce019908fe6c2d735d66b3",
     "tapdaq_client_key": "3d8655a9-7fb6-4998-ade3-907c3ea9fafe",
     "tapdaq_placement_tag_banner": "default",
     "tapdaq_placement_tag_inter": "default",
